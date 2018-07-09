@@ -3,7 +3,7 @@
 var moment = require("moment");
 
 /**
- * Returns a div element with a footer and updating year
+ * Returns a string element with a footer and updating year
  * @param {string} name
  * @return {string}
  */
